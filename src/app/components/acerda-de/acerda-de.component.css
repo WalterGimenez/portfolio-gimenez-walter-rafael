@@ -1,0 +1,8 @@
+#gim{
+    position:absolute;
+    width: 140px;
+    border-radius: 100px;
+    top: 550px;
+    left: 30px;
+    z-index: 5;
+}

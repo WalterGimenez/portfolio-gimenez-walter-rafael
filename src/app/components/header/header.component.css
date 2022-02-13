@@ -1,10 +1,19 @@
 
-div{
+div, #yoprog{
     background-color: #00a78e;
 }
 
+
 #logarg{
     width: 150px;
+    
+}
+
+#yoprog{
+    margin-top: 10px;
+    margin-left: -10px;
+    height:55px;
+    
 }
 
 #face,  #insta,  #linke, #git {
@@ -25,3 +34,13 @@ a, button{
 button{
     margin-right: 10px;
 }
+
+#banner{
+    position:absolute;
+    width: 98%;
+    height: 550px;
+    margin-bottom: -5px;
+    margin-left: 10px;
+    border-radius: 25px;
+}
+
